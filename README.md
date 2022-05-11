@@ -4,8 +4,8 @@ Images of 32 different sheep collected at UCDB's Farm School in Campo Grande-MS.
 
 Real sheep images
 
->>dataset32
+>>sheep32dataset
 
 Segmented images from the real images
 
->>dataset32_segmented
+>>sheep32dataset_densenet
